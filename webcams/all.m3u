@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,San Francisco Cameras
+#EXTINF:-1 group-title="Webcams",San Francisco Cameras
 https://maskadvised.github.io/m3uview/webcams/sf.m3u
