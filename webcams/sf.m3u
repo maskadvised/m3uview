@@ -1,25 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Mark Hopkins",San Francisco - Mark Hopkins Angle #1
+#EXTINF:-1 group-title="Mark Hopkins",Mark Hopkins Angle #1
 https://cbsl30bd-cbsl30bd-ms.global.ssl.fastly.net/kpix7ca8/master/kpix7ca8.m3u8
 
-#EXTINF:-1 group-title="Mark Hopkins",San Francisco - Mark Hopkins Angle #2
+#EXTINF:-1 group-title="Mark Hopkins",Mark Hopkins Angle #2
 https://cbsl30bd-cbsl30bd-ms.global.ssl.fastly.net/kpix5bcd/master/kpix5bcd.m3u8
 
-#EXTINF:-1 group-title="Mark Hopkins",San Francisco - Mark Hopkins Angle #3
+#EXTINF:-1 group-title="Mark Hopkins",Mark Hopkins Angle #3
 https://cbsl30bd-cbsl30bd-ms.global.ssl.fastly.net/kpixff53/master/kpixff53.m3u8
 
-#EXTINF:-1 group-title="Mark Hopkins",San Francisco - Mark Hopkins Angle #4
+#EXTINF:-1 group-title="Mark Hopkins",Mark Hopkins Angle #4
 https://cbsl30bd-cbsl30bd-ms.global.ssl.fastly.net/kpixah34/master/kpixah34.m3u8
 
-#EXTINF:-1 group-title="Salesforce",San Francisco - Salesforce Tower Angle #1
+#EXTINF:-1 group-title="Salesforce",Salesforce Tower Angle #1
 https://bakery.cbsi.video/propeller/cbsl30bd/kpix97h7/56554.m3u8
 
-#EXTINF:-1 group-title="Salesforce",San Francisco - Salesforce Tower Angle #2
+#EXTINF:-1 group-title="Salesforce",Salesforce Tower Angle #2
 https://bakery.cbsi.video/propeller/cbsl30bd/kpix8fcg/56557.m3u8
 
-#EXTINF:-1 group-title="Salesforce",San Francisco - Salesforce Tower Angle #3
+#EXTINF:-1 group-title="Salesforce",Salesforce Tower Angle #3
 https://bakery.cbsi.video/propeller/cbsl30bd/kpix2431/56556.m3u8
 
-#EXTINF:-1 group-title="Salesforce",San Francisco - Salesforce Tower Angle #4
+#EXTINF:-1 group-title="Salesforce",Salesforce Tower Angle #4
 https://bakery.cbsi.video/propeller/cbsl30bd/kpixbf77/56555.m3u8
+
+#EXTINF:-1 group-title="East Bay",Emeryville
+https://wmso-us-ea1.wetmet.net/live/286-05-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDM6Mjg6NTMgQU0maGFzaF92YWx1ZT02L0tvZkpEQm5Fdmp0LzcvMkJROElnPT0mdmFsaWRtaW51dGVzPTMw
+
+#EXTINF:-1 group-title="East Bay",Oakland Estuary
+https://wmso-us-ea1.wetmet.net/live/286-11-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDM6MzA6MjMgQU0maGFzaF92YWx1ZT16dG52aFBPSHFnWjdmM1FZRTVkQXl3PT0mdmFsaWRtaW51dGVzPTMw
+
+#EXTINF:-1 group-title="East Bay",Bay Point
+https://wmso-us-ea1.wetmet.net/live/286-06-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDM6MzA6NTkgQU0maGFzaF92YWx1ZT1Va0kxTk43N2hHeitwSTZBOTBVV09nPT0mdmFsaWRtaW51dGVzPTMw
+
+#EXTINF:-1 group-title="East Bay",South Bay
+https://wmso-us-ea1.wetmet.net/live/286-03-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDM6MzE6MjYgQU0maGFzaF92YWx1ZT14bVdkeFQ4Y3dMM0hsTTJSMjJBNU1RPT0mdmFsaWRtaW51dGVzPTMw
