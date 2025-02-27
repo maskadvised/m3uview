@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1,San Francisco - Mark Hopkins Angle #1
+#EXTINF:-1 group-title="Mark Hopkins",San Francisco - Mark Hopkins Angle #1
 https://cbsl30bd-cbsl30bd-ms.global.ssl.fastly.net/kpix7ca8/master/kpix7ca8.m3u8
 
-#EXTINF:-1,San Francisco - Mark Hopkins Angle #2
+#EXTINF:-1 group-title="Mark Hopkins",San Francisco - Mark Hopkins Angle #2
 https://cbsl30bd-cbsl30bd-ms.global.ssl.fastly.net/kpix5bcd/master/kpix5bcd.m3u8
 
-#EXTINF:-1,San Francisco - Mark Hopkins Angle #3
+#EXTINF:-1 group-title="Mark Hopkins",San Francisco - Mark Hopkins Angle #3
 https://cbsl30bd-cbsl30bd-ms.global.ssl.fastly.net/kpixff53/master/kpixff53.m3u8
 
-#EXTINF:-1,San Francisco - Mark Hopkins Angle #4
+#EXTINF:-1 group-title="Mark Hopkins",San Francisco - Mark Hopkins Angle #4
 https://cbsl30bd-cbsl30bd-ms.global.ssl.fastly.net/kpixah34/master/kpixah34.m3u8
 
-#EXTINF:-1,San Francisco - Salesforce Tower Angle #1
+#EXTINF:-1 group-title="Salesforce",San Francisco - Salesforce Tower Angle #1
 https://bakery.cbsi.video/propeller/cbsl30bd/kpix97h7/56554.m3u8
 
-#EXTINF:-1,San Francisco - Salesforce Tower Angle #2
+#EXTINF:-1 group-title="Salesforce",San Francisco - Salesforce Tower Angle #2
 https://bakery.cbsi.video/propeller/cbsl30bd/kpix8fcg/56557.m3u8
 
-#EXTINF:-1,San Francisco - Salesforce Tower Angle #3
+#EXTINF:-1 group-title="Salesforce",San Francisco - Salesforce Tower Angle #3
 https://bakery.cbsi.video/propeller/cbsl30bd/kpix2431/56556.m3u8
 
-#EXTINF:-1,San Francisco - Salesforce Tower Angle #4
+#EXTINF:-1 group-title="Salesforce",San Francisco - Salesforce Tower Angle #4
 https://bakery.cbsi.video/propeller/cbsl30bd/kpixbf77/56555.m3u8
