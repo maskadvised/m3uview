@@ -27,16 +27,16 @@ https://bakery.cbsi.video/propeller/cbsl30bd/kpixbf77/56555.m3u8
 #EXTINF:-1 group-title="Bayfront",St. Francis Yacht Club
 https://s65.ipcamlive.com/streams/41teybjxzuqgatshc/stream.m3u8
 
-#EXTINF:-1 group-title="East Bay",Emeryville
+#EXTINF:-1 group-title="East Bay",UNAVAILABLE - Emeryville
 https://wmso-us-ea1.wetmet.net/live/286-05-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDM6Mjg6NTMgQU0maGFzaF92YWx1ZT02L0tvZkpEQm5Fdmp0LzcvMkJROElnPT0mdmFsaWRtaW51dGVzPTMw
 
-#EXTINF:-1 group-title="East Bay",Oakland Estuary
-https://wmso-us-ea1.wetmet.net/live/286-11-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDM6MzA6MjMgQU0maGFzaF92YWx1ZT16dG52aFBPSHFnWjdmM1FZRTVkQXl3PT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-1 group-title="East Bay",UNAVAILABLE - Oakland Estuary
+https://wmso-us-ea1.wetmet.net/live/286-11-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDU6NTc6MTMgQU0maGFzaF92YWx1ZT1Qb1RvTW53TTV4TjlRdHhJdHFsZE9RPT0mdmFsaWRtaW51dGVzPTMw
 
-#EXTINF:-1 group-title="East Bay",Bay Point
+#EXTINF:-1 group-title="East Bay",UNAVAILABLE - Bay Point
 https://wmso-us-ea1.wetmet.net/live/286-06-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDM6MzA6NTkgQU0maGFzaF92YWx1ZT1Va0kxTk43N2hHeitwSTZBOTBVV09nPT0mdmFsaWRtaW51dGVzPTMw
 
-#EXTINF:-1 group-title="East Bay",South Bay
+#EXTINF:-1 group-title="East Bay",UNAVAILABLE - South Bay
 https://wmso-us-ea1.wetmet.net/live/286-03-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDM6MzE6MjYgQU0maGFzaF92YWx1ZT14bVdkeFQ4Y3dMM0hsTTJSMjJBNU1RPT0mdmFsaWRtaW51dGVzPTMw
 
 #EXTINF:-1 group-title="North Bay",Muir Beach
