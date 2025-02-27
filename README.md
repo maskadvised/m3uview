@@ -18,3 +18,4 @@ NEWS
 ```
 https://maskadvised.github.io/m3uview/news/la.m3u
 ```
+*Note: KTLA HD1 Stream 2 is the only working KTLA stream*
