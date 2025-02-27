@@ -2,7 +2,7 @@ I'll be expanding this more soon.
 
 ## IPTV LINKS
 
-**SAN FRANCISCO**
+### SAN FRANCISCO
 
 WEBCAMS
 ```
@@ -12,7 +12,7 @@ NEWS
 ```
 https://maskadvised.github.io/m3uview/news/sf.m3u
 ```
-**LOS ANGELES**
+### LOS ANGELES
 
 NEWS
 ```
