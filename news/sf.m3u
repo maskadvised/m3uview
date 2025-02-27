@@ -12,7 +12,10 @@ https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8
 #EXTINF:-1,KNTV11 - NBC Bay Area
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/c89daa64-5219-4a4e-8750-5756c85c409c/2.m3u8
 
-#EXTINF:-1,KGO7 HD1 - ABC 7 News San Francisco - 24/7 Stream
+#EXTINF:-1,KGO7 HD1 - ABC 7 News San Francisco - 24/7 Stream (No Ads)
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316948
+
+#EXTINF:-1,KGO7 HD1 ALT - ABC 7 News San Francisco - 24/7 Stream (Ads)
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316948&platform=web&ad.tag=&ad.vast3=1&ad.v=2&ad.tfcd=0&ad.is_lat=0&ad.npa=0&ad.correlator=33715&ad=kgo_live&ad.adUnit=/kgo/abc7news.com/web/live-broadcast-news&ad.pp=datg-live-vdms&ad.description_url=https%3A//abc7news.com/watch/live/&ad.url=https%3A//abc7news.com/watch/live/&ad.sz=640x480&ad.ppid=34d74b24abd04740900c0e76c2eb73cd&ad.rdp=0&ad.us_privacy=1YNY&prbd.server=drax&ad.prbd=drax&station=kgo&id=11065007&key=otv.web.kgo.player&ad.cust_params=accesslevel%3D0%26beacTyp%3Dssai%26isAuth%3D0%26aff%3Dkgo%26lang%3Den%26ait%3Dssai%26chan%3Dmisc%26objid%3D%26isAutoplay%3D1%26isDnt%3D0%26isMute%3D0%26pgtyp%3Dwatch%26vdm%3Dlive%26plt%3Ddesktop%26stp%3Dvdms%26swid%3D34d74b24abd04740900c0e76c2eb73cd%26dtci_yxbk%3D%26var%3D16x9%26vps%3D640x360%26noad%3D0%26refDomain%3Dhttps%253A//abc7news.com/watch/live/%26unid%3D%26d_us_privacy%3D1YNY%26tvid%3D
 
 #EXTINF:-1,KGO7 HD2 - ABC 7 News San Francisco - Weather
