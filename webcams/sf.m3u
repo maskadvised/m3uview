@@ -41,3 +41,6 @@ https://wmso-us-ea1.wetmet.net/live/286-03-01/playlist.m3u8?wmsAuthSign=c2VydmVy
 
 #EXTINF:-1 group-title="North Bay",Muir Beach
 https://s63.ipcamlive.com/streams/3f4poune1ijctbxgd/stream.m3u8
+
+#EXTINF:-1 group-title="North Bay",Golden Gate Bridge - Toll Plaza South
+https://dcs-live-ue4.mp.lura.live/server/play/qAlJONwF58VWTe7J/rendition.m3u8?track=video-0&anvsid=m177635114-n27557180ffb1e9a15c55212ec2f812f9&ts=1740638075&anvtrid=2650f55ebbb7e20f07d04d51169aa98f
